@@ -3,6 +3,8 @@ A visualization project of an operations center cockpit
 可视化平台-CMS运营中心驾驶舱
 ## Customize configuration
 
+##vue3项目
+
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
