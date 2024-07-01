@@ -1,6 +1,6 @@
 # cms-operate-cockpit
 A visualization project of an operations center cockpit
-
+可视化平台-CMS运营中心驾驶舱
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
