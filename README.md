@@ -23,4 +23,4 @@ npm run dev
 npm run build
 ```
 
-![image](src/assets/img/demo.jpg)
+![image](https://github.com/chen688L/cms-operate-cockpit/src/assets/img/demo.jpg)
