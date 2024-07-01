@@ -23,4 +23,4 @@ npm run dev
 npm run build
 ```
 
-![alt text](src/assets/img/demo.jpg)
+![image](src/assets/img/demo.jpg)
